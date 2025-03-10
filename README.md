@@ -37,9 +37,3 @@ I'm a passionate developer who enjoys building fun and functional things — fro
 
 ---
 
-## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=notkisk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-## 🔝 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkisk&layout=compact&theme=tokyonight" alt="Top Languages" />
-
