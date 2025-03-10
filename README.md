@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm HIM!
 
-I'm a passionate developer who enjoys building fun and functional things — from games to mobile apps!
+Ahhh!....idk
 
 ![Profile Views](https://komarev.com/ghpvc/?username=notkisk&style=flat-square&color=blue)
 
