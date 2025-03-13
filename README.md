@@ -26,7 +26,7 @@ Ahhh!....idk
 ### 🎨 Design & Database
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-9bbbff?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-7d60ff?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
