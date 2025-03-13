@@ -27,6 +27,7 @@ Ahhh!....idk
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-7d60ff?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-7d60ff?style=for-the-badge&logo=blender&logoColor=orange" />
 </p>
 
 ---
