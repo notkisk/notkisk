@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm HIM!
 
-Ahhh!....idk
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=notkisk&style=flat-square&color=blue)
 
