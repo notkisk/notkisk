@@ -39,6 +39,7 @@
 ## 💡 Interests
 - 🕹 Game Development  
 - 📲 Android App Development
+- 🌐 Web Development
 - COOKING...
 
 
