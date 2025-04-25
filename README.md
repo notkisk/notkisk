@@ -40,7 +40,7 @@
 - 🕹 Game Development  
 - 📲 Android App Development
 - 🌐 Web Development
-- COOKING....
+- COOKING...
 
 
 
