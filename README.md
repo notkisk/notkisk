@@ -33,7 +33,7 @@
 ---
 
 ## 💼 Currently Working On
-🚓 **Police Plus** — A mobile app for police officers to track car status, insurance info, and more using license plate recognition.
+ **Parsit** — A document ingestion tool.
 
 ---
 
