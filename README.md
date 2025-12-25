@@ -44,11 +44,6 @@
 
 ---
 
-## 💼 Currently Working On
- **Parsit** — A document ingestion tool.
-
----
-
 ## 💡 Interests
 - 🤖🧠Machine Learning
 - 🕹 Game Development
