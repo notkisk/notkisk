@@ -49,9 +49,4 @@
 ## 💡 Interests
 - 🤖🧠Machine Learning
 - 🕹 Game Development
-- 📲 Android App Development
-- COOKING...
-
-
-
 
